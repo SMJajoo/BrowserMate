@@ -122,7 +122,7 @@ def add_guide():
 def login():  
       uname=request.form['uname']  
       passwrd=request.form['pass']  
-      if uname=="Ryan" and passwrd=="google1":  
+      if uname=="Sanskruti" and passwrd=="google1":  
           print(uname)
           return "Welcome %s" %uname 
       else:
