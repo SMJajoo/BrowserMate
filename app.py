@@ -83,8 +83,8 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 mydict = {}
 
 # USERS = {
-#     "Sanskruti": "+447879907243",
-#     "Ryan": "+447579065474"
+#     "Sanskruti": "Add ur number here",
+#     "Ryan": "Add ur number here"
 # }
 
 # with open('csv_file.csv', mode='r') as inp:
