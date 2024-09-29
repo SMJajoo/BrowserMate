@@ -126,7 +126,7 @@ def login():
           print(uname)
           return "Welcome %s" %uname 
       else:
-          return "Ask Ryan for access"
+          return "Ask Sanskruti for access"
 
 def send_text(msg,phonenumber):
     print(msg)
