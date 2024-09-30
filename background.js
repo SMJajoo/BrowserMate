@@ -4,10 +4,10 @@ let config = {
 };
 
 let options = {
-    name: "Ryan",
+    name: "Sanskruti",
     message: "%name% is accessing content that they shouldn't be. %link%",
     formatted_message: "Ryan is accessing content that they shouldn't be.",
-    number: "+447579065474",
+    number: "+44 1234567890",
     agreed: true,
     tracked_websites: [
         "https://www.youtube.com/",
